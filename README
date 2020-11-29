@@ -1,0 +1,8 @@
+Caleb Grillo
+assignment 4
+
+I had issues with lab machine being extremely laggy on collosions. All it does is show one explosion that pops up at a random location between respawn point and point of collision. I couldn't determine if it was my code or lag causing this...but i think its lag. The explosion will sometimes go off and sometimes won't(atleast to the eye).It also goes off really quickly when it occurs b/c of lag spike .Not sure how else to test could not get it running on windows. I'm hoping that it runs fine on your machines
+
+Also, it appears only one explosion happens. Wasn't sure b/c of lag and lack of precise loading but i followed dr zordan's code for creating particles so I couldn't tell why it would do this
+
+and the moon.png has some black out corners that will appear to be no contact but it is hitting the rect correctly just a blank space from the picture
